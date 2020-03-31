@@ -1,0 +1,11 @@
+{
+  "name": "DigitalStorage",
+  "version": "0.1.0",
+  "title": "Digital Storage",
+  "author": "kahd0",
+  "contact": "kahd0m0d@gmail.com",
+  "homepage": "",
+  "factorio_version": "0.18",
+  "dependencies": ["base >= 0.18"],
+  "description": "This mod adds a digital storage for your items."
+}
